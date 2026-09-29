@@ -1,6 +1,6 @@
-# Hey, I'm Kareem
+# Hey, I'm Kareem 👋
 
-First-year Computer Science student at Carleton University. I like understanding how things work by building them myself — right now that means teaching myself systems programming and GPU computing from scratch.
+I'm a first-year Computer Science student at Carleton University. I like understanding how things work by building them myself — right now that means teaching myself systems programming and GPU computing from scratch.
 
 ## What I'm working on
 
