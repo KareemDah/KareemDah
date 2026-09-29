@@ -14,6 +14,6 @@ First-year Computer Science student at Carleton University. I like understanding
 
 C++, Python
 
-## Get in touch
+## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/kareemdahrouj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemdahrouj)
