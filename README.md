@@ -1,8 +1,8 @@
-# Kareem Dahrouj
+# Hey, I'm Kareem
 
-First-year Computer Science student at Carleton University, learning systems programming by building things from scratch.
+First-year Computer Science student at Carleton University. I like understanding how things work by building them myself — right now that means teaching myself systems programming and GPU computing from scratch.
 
-## Currently working on
+## What I'm working on
 
 **[digit-recognizer-cuda](https://github.com/KareemDah/digit-recognizer-cuda)** — a from-scratch C++ progression: a CPU handwritten-digit recognizer, optimized with cache-friendly memory access and multithreading, then ported to CUDA and benchmarked on a GPU.
 
@@ -14,6 +14,6 @@ First-year Computer Science student at Carleton University, learning systems pro
 
 C++, Python
 
-## Contact
+## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/kareemdahrouj)
